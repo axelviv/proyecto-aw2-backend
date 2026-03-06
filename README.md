@@ -47,10 +47,12 @@ Este backend fue desarrollado para integrarse con una interfaz web creada previa
 
 🚀Deploy
 - Link: https://superb-crepe-ea0bfa.netlify.app/
-- ⚠️ Nota; El backend está desplegado en Render.com**.  
-Este plan entra en modo suspensión cuando no recibe tráfico, por lo que **la primera carga puede tardar entre 30 y 60 segundos**.  
+  
+- La base de datos está alojada en MongoDB Atlas.  
+- El frontend está desplegado en netlify.  
+- El backend está desplegado en Render.com.  
+⚠️ Nota: Render entra en modo suspensión cuando no recibe tráfico, por lo que **la primera carga puede tardar entre 30 y 60 segundos**.  
 Si los productos no aparecen de inmediato, simplemente esperar 1 minuto y actualizar la página.
- 
 
 🚀Usuarios de prueba
 - email: super@man.com          pw: superman
