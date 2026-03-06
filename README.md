@@ -46,8 +46,8 @@ Este backend fue desarrollado para integrarse con una interfaz web creada previa
 - Implementación de un middleware de registro de logs.
 
 🚀Deploy
-Link de Deploy: https://superb-crepe-ea0bfa.netlify.app/
+- Link: https://superb-crepe-ea0bfa.netlify.app/
 
-Usuarios de prueba:
+🚀Usuarios de prueba:
 email: super@man.com          pw: superman
 email: homero@simpson.com     pw: homero
